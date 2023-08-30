@@ -23,7 +23,7 @@ I graduated from **New York University Abu Dhabi** in 2021 with B.S. in Electric
 ### 💬 Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/postgres-B0DBF1.svg?style=for-the-badge&logo=postgresql)
+![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🔭 Frameworks
 ![PyTorch](https://img.shields.io/badge/pytorch-%230769AD.svg?style=for-the-badge&logo=pytorch)
